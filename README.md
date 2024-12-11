@@ -94,8 +94,12 @@
 <div align="center">
   <img src="https://github.com/quayedna/quayedna/blob/output/github-contribution-grid-snake.svg" alt="snake">
   
-  <p>🎵 Currently vibing to:</p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i2bigvttrcjmhaxefxqnfw7mpa&cover_image=true&theme=default" alt="Spotify">
+ <div align="center">
+  <h3>🎵 Music & Vibes</h3>
+  <a href="https://open.spotify.com/user/31i2bigvttrcjmhaxefxqnfw7mpa" target="_blank">
+    <img src="https://img.shields.io/badge/Dave's_Playlist-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=1DB954" alt="Spotify Profile"/>
+  </a>
+</div>
 </div>
 
 ---
